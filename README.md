@@ -4,6 +4,7 @@ HINDELINE ÜLESANNE 2
 
 ![image](https://github.com/JaagupPr/DatabaseTask/assets/158137390/3d1b2a8e-de82-4101-95c9-18d4198c7e05)
 
+```json
 OBJECT STRUCTURE:
 {
   "Company": {
@@ -156,3 +157,4 @@ OBJECT STRUCTURE:
     "comment": "string"
   }
 }
+```
